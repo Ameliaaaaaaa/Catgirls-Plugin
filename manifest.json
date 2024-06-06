@@ -1,0 +1,11 @@
+{
+  "id": "catgirls-plugin",
+  "name": "Catgirls Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "A plugin for Obsidian to upload notes to Catgirls.pet.",
+  "author": "Amelia",
+  "authorUrl": "https://femboys-drink.monster",
+  "fundingUrl": "https://femboys-drink.monster",
+  "isDesktopOnly": true
+}
